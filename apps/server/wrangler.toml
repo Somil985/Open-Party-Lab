@@ -3,4 +3,4 @@ main = "dist/main.js" # Replace 'index.js' with your main compiled file in src/ 
 compatibility_date = "2026-01-01"
 # If your server serves static files, include this:
 # assets = { directory = "./dist" }
-
+compatibility_flags = [ "nodejs_compat" ]
