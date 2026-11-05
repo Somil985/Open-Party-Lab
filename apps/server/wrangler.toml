@@ -1,5 +1,5 @@
 name = "open-party-lab-server"
-main = "dist/server.js" # Replace 'index.js' with your main compiled file in src/ (e.g. main.js)
+main = "dist/main.js" # Replace 'index.js' with your main compiled file in src/ (e.g. main.js)
 compatibility_date = "2026-01-01"
 # If your server serves static files, include this:
 # assets = { directory = "./dist" }
